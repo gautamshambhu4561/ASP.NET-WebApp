@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\LoginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|C:\\Users\\Dell\\source\\repos\\LoginForm\\Home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|solutionrelative:Home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|C:\\Users\\Dell\\source\\repos\\LoginForm\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|solutionrelative:Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|c:\\users\\dell\\source\\repos\\loginform\\webform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|solutionrelative:webform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|C:\\Users\\Dell\\source\\repos\\LoginForm\\WebForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|solutionrelative:WebForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|C:\\Users\\Dell\\source\\repos\\LoginForm\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5374C8B0-9362-4479-98A1-96975E78B529}|LoginForm.csproj|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginForm\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginForm\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:06:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginForm\\WebForm.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginForm\\WebForm.aspx.cs",
+              "RelativeToolTip": "WebForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:08:50.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginForm\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginForm\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T08:05:31.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginForm\\WebForm.aspx",
+              "RelativeDocumentMoniker": "WebForm.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginForm\\WebForm.aspx",
+              "RelativeToolTip": "WebForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-12T08:05:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginForm\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginForm\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-12T08:35:09.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\LoginRole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|c:\\users\\dell\\source\\repos\\loginrole\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|C:\\Users\\Dell\\source\\repos\\LoginRole\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|C:\\Users\\Dell\\source\\repos\\LoginRole\\UserDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|solutionrelative:UserDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|C:\\Users\\Dell\\source\\repos\\LoginRole\\HRDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|solutionrelative:HRDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|C:\\Users\\Dell\\source\\repos\\LoginRole\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA06A8A-9241-4219-B873-DEAF1617942C}|LoginRole.csproj|solutionrelative:Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginRole\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginRole\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-12T23:38:05.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginRole\\UserDashboard.aspx",
+              "RelativeDocumentMoniker": "UserDashboard.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginRole\\UserDashboard.aspx",
+              "RelativeToolTip": "UserDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-12T23:35:01.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HRDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginRole\\HRDashboard.aspx",
+              "RelativeDocumentMoniker": "HRDashboard.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginRole\\HRDashboard.aspx",
+              "RelativeToolTip": "HRDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-12T23:33:57.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginRole\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginRole\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:22:36.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\LoginRole\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\LoginRole\\Login.aspx*",
+              "RelativeToolTip": "Login.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-12T23:21:58.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

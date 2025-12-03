@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MasterPageContent.Site" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><%: Page.Title %> - MasterPageContent</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Header -->
+        <header class="bg-dark text-white p-3">
+            <div class="container-fluid">
+                <h1 class="h3">LMS Portal</h1>
+            </div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#" runat="server">Dashboard</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Home.aspx" runat="server">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/About.aspx" runat="server">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Contact.aspx" runat="server">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Layout -->
+        <div class="container-fluid">
+            <div class="row">
+                <!-- Sidebar -->
+                <aside class="col-md-2 bg-light p-3">
+                    <ul class="nav flex-column">
+                        <li class="nav-item"><a class="nav-link" href="#">Courses</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Assignments</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Grades</a></li>
+                    </ul>
+                </aside>
+
+                <!-- Main Content -->
+                <main class="col-md-10 p-4">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                </main>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="bg-dark text-white text-center py-3 mt-4">
+            <small>© 2025 LMS Portal | All Rights Reserved</small>
+        </footer>
+    </form>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

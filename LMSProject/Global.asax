@@ -1,0 +1,1 @@
+﻿<%@ Application CodeFile="Global.asax.cs" Inherits="LMSProject.Global" Language="C#" %>
